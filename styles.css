@@ -1,12 +1,14 @@
 img {
     margin-top: 15px;
     margin-bottom: 10px;
-    margin-left: 400px;
+    margin-left: 10px;
     margin-right: 50px;
 }
 
 body {
     background-color: paleturquoise;
+    margin: 8px;
+    display: block;
 }
 
 p {
@@ -15,6 +17,26 @@ p {
 
 }
 
- {
+ #Adao {
+    color: darkslateblue;
+ }
 
-}
+ #Jaani {
+    color: indigo;
+ }
+
+ #Thena {
+    color:darkviolet;
+ }
+
+ .p {
+    border: 4px dotted brown;
+ }
+
+ #mainHeading {
+    color: red;
+ }
+
+ .funParagraph {
+    color: green;
+ }
